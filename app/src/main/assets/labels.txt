@@ -1,0 +1,186 @@
+PET bottle (water bottle)
+PET bottle (beverage bottle)
+HDPE milk bottle
+HDPE detergent bottle
+PVC pipe
+PVC plastic sheet
+LDPE plastic bag
+LDPE plastic wrap
+Polystyrene cup
+Polystyrene container
+Polypropylene food container
+Polypropylene lid
+ABS toy
+ABS electronics case
+Nylon fishing line
+Nylon stockings
+Acrylic cosmetic container
+Acrylic partition
+Polyethylene tarpaulin
+Polyethylene pipe
+Plastic cutlery
+Plastic spoon
+Plastic fork
+Plastic knife
+Plastic straw
+Plastic plate
+Plastic bowl
+Plastic cup
+Plastic toy
+Plastic chair
+Plastic table
+Plastic drawer
+Plastic bookshelf
+Plastic storage box
+Plastic basket
+Plastic blister packaging
+Plastic bottle cap
+Plastic tape measure
+Plastic pen
+Plastic brush
+Plastic comb
+Plastic toothbrush
+Plastic toothpaste tube
+Plastic shampoo bottle
+Plastic conditioner bottle
+Plastic body wash bottle
+Plastic lotion bottle
+Plastic skincare container
+Plastic makeup container
+Plastic toy block
+Newspaper
+Cardboard box
+Paper bag
+Paper cup
+Paper plate
+Paper packaging
+Advertisement flyer
+Mail
+Card
+Book
+Notebook
+Magazine
+Memo pad
+Copy paper
+Letter paper
+Paper pack
+Calendar
+Brochure
+Poster
+Map
+Paper tag
+Paper sticker
+Wrapping paper
+Paper toy
+Paper shopping bag
+Paper file folder
+Post-it note
+Tissue box
+Egg carton
+Paper label
+Paper partition
+Paper banner
+Paper menu
+Paper envelope
+Paper hat
+Paper Christmas card
+Paper birthday card
+Paper invitation
+Paper placard
+Paper cover
+Paper library card
+Paper viewing card
+Paper airplane
+Paper cutting
+Origami
+Paper calendar
+Paper schedule
+Paper ticket
+Paper receipt
+Paper bill
+Aluminum can
+Steel can
+Aluminum foil
+Aluminum tray
+Wire
+Nail
+Bolt
+Nut
+Screw
+Metal cap
+Metal bottle cap
+Metal tube
+Metal film
+Metal kettle
+Metal pot
+Metal pan
+Metal plate
+Metal bowl
+Metal cup
+Metal spoon
+Metal fork
+Metal knife
+Metal tongs
+Metal scissors
+Metal hook
+Metal chain
+Metal key
+Metal lock
+Metal bracket
+Metal ornament
+Metal ashtray
+Metal lighter
+Metal tweezers
+Metal paperclip
+Metal paper fastener
+Metal tool
+Metal knife
+Metal hammer
+Metal screwdriver
+Metal measuring tape
+Metal saw
+Metal pliers
+Metal rivet
+Metal washer
+Metal padlock
+Metal clip
+Metal ring
+Metal brooch
+Metal necklace
+Metal bracelet
+Glass bottle (beer)
+Glass bottle (wine)
+Glass bottle (beverage)
+Glass bottle (cosmetic)
+Glass shard
+Glass window
+Glass mirror
+Glass cup
+Glass plate
+Glass bowl
+Glass vase
+Glass frame
+Glass chandelier
+Glass bulb
+Glass light fixture
+Glass terrarium
+Glass tile
+Glass ornament
+Glass souvenir
+Glass gift box
+Glass goblet
+Glass candle holder
+Glass jar
+Glass bottle
+Glass bottle cap
+Glass tube
+Glass flask
+Glass beaker
+Glass reagent bottle
+Glass glasses
+Glass window shard
+Glass light cover
+Glass decorative tile
+Glass brick
+Glass mosaic
+Glass
